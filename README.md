@@ -8,4 +8,5 @@ This game was made by Elad Cohen ([eladcn](https://github.com/eladcn)) and Hadar
 
 ## Screenshots
 ![Game Settings](/Screenshots/Game_Settings.PNG)
+
 ![Board](/Screenshots/Board.PNG)
